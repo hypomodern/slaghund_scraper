@@ -21,15 +21,15 @@ http_interactions:
       Server:
       - Microsoft-IIS/7.5
       Set-Cookie:
-      - ASP.NET_SessionId=fvfra2fxy3w3nranq3afvgwo; path=/; HttpOnly
+      - ASP.NET_SessionId=13jmyvbbf0sbfrsfyudtyuna; path=/; HttpOnly
       X-AspNet-Version:
       - 4.0.30319
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sat, 10 Aug 2013 03:42:55 GMT
+      - Sat, 28 Dec 2013 17:40:51 GMT
       Content-Length:
-      - '46700'
+      - '50494'
     body:
       encoding: UTF-8
       string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
@@ -61,13 +61,13 @@ http_interactions:
         \    \r\n    <script type=\"text/javascript\" src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\"></script>\r\n
         \   <script type=\"text/javascript\" src=\"Scripts/highcharts.js\"></script>\r\n</head>\r\n<body>\r\n
         \   <form method=\"post\" action=\"slagview.aspx\" id=\"ctl01\">\r\n<input
-        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"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\"
+        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"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\"
         />\r\n\r\n<script type=\"text/javascript\">\r\n$(function () {\r\n    var
         chart;\r\n    $(document).ready(function () {\r\n        chart = new Highcharts.Chart({\r\n
         \           chart: {\r\n                renderTo: 'chart',\r\n                type:
         'column'\r\n            },\r\n            title: {\r\n                text:
         'Game Breakdown by Month'\r\n            },\r\n            xAxis: {\r\n                categories:
-        ['2012-9','2012-10','2012-11','2012-12','2013-1','2013-2','2013-3','2013-4','2013-5','2013-6','2013-7','2013-8',]\r\n
+        ['2012-9','2012-10','2012-11','2012-12','2013-1','2013-2','2013-3','2013-4','2013-5','2013-6','2013-7','2013-8','2013-9','2013-10','2013-11','2013-12',]\r\n
         \           },\r\n            yAxis: {\r\n                min: 0,\r\n                title:
         {\r\n                    text: 'Total Games'\r\n                },\r\n                stackLabels:
         {\r\n                    enabled: true,\r\n                    style: {\r\n
@@ -87,10 +87,10 @@ http_interactions:
         \                   dataLabels: {\r\n                        enabled: true,\r\n
         \                       color: (Highcharts.theme && Highcharts.theme.dataLabelsColor)
         || 'white'\r\n                    }\r\n                }\r\n            },\r\n
-        \           series: [{name:'Corp Wins', data: [334,1257,1101,1133,2638,4154,5062,6008,6606,6878,6173,2182,]},{name:'Runner
-        Wins', data: [437,1278,1204,1186,2825,4262,5042,6399,7069,6648,6109,2686,]}]\r\n
+        \           series: [{name:'Corp Wins', data: [334,1257,1101,1133,2638,4154,5062,6008,6606,6878,6173,8243,6597,7950,6351,3128,]},{name:'Runner
+        Wins', data: [437,1278,1204,1186,2825,4262,5042,6399,7069,6648,6109,9117,6897,8093,6685,3135,]}]\r\n
         \       });\r\n    });\r\n\r\n});</script>\r\n<input type=\"hidden\" name=\"__EVENTVALIDATION\"
-        id=\"__EVENTVALIDATION\" value=\"/wEWAgLEqvvwCQKqi5sz+Wn5NWlwsbG/DdEvLo4ny+I0tJq9r1fDnw0wM2pwzaw=\"
+        id=\"__EVENTVALIDATION\" value=\"/wEWAgKryun3AQKqi5szSYAua8OmzFKr6X6JW5IsZ7z4wVzPLqRAuZd+yNUb4AA=\"
         />\r\n    <div class=\"page\">\r\n        <div class=\"header\">\r\n            <div
         class=\"legend\">\r\n                <h1>\r\n                    Slaghund\r\n
         \               </h1>\r\n            </div>\r\n        </div>\r\n        <div
@@ -99,11 +99,11 @@ http_interactions:
         \      \r\n        <div class=\"box \" align=\"center\">\r\n            <table
         width=\"100%\" cellspacing=\"1\" valign=\"top\">\r\n                <tr>\r\n
         \                   <td><span id=\"MainContent_lbTotalMatches\"><div class='notice'>Total
-        Matches Tracked: <b>88671</b> - Total Unique Players:<b>6360</b></div></span>\r\n
+        Matches Tracked: <b>149999</b> - Total Unique Players:<b>9139</b></div></span>\r\n
         \                   </td>\r\n                     <td align=\"left\">\r\n
         \                       <span id=\"MainContent_lbCorpWins\"><div class='success'>Corporation
-        Victories: <b>43526</b></div></span> &nbsp&nbsp\r\n                        <span
-        id=\"MainContent_lbRunnerWins\"><div class='alert'>Runner Victories: <b>45145</b></div></span>\r\n
+        Victories: <b>73613</b></div></span> &nbsp&nbsp\r\n                        <span
+        id=\"MainContent_lbRunnerWins\"><div class='alert'>Runner Victories: <b>76386</b></div></span>\r\n
         \                   </td>\r\n                </tr>\r\n                <tr>\r\n
         \                   <td colspan=\"2\" align=\"center\">\r\n                        <div
         id=\"chart\"></div>\r\n                        <p class=\"notice\">\r\n                           <b>Detailed
@@ -129,64 +129,64 @@ http_interactions:
         align=\"left\">\r\n                                        <a href=\"#\" onclick=\"OnItemClick('Jinteki')\">\r\n
         \                                           Jinteki</a>\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">9500 / 10913 (46,54%)</div>\r\n                                    </td>\r\n
+        align=\"center\">15063 / 17653 (46,04%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">3,0</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">12,7</div>\r\n                                    </td>\r\n
+        align=\"center\">13,0</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">15</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">36</div>\r\n                                    </td>\r\n
+        align=\"center\">35</div>\r\n                                    </td>\r\n
         \                               </tr>\r\n                            \r\n
         \                           \r\n                            \r\n                            <tr>\r\n
         \                           <td align=\"right\">\r\n                                        \r\n
         \                                   -->  Personal Evolution\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">6825 / 7039 (49,23%)</div>\r\n                                    </td>\r\n
+        align=\"center\">11217 / 11854 (48,62%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">2,8</div>\r\n                                    </td>\r\n
+        align=\"center\">2,9</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">12,0</div>\r\n                                    </td>\r\n
+        align=\"center\">12,5</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">14</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">36</div>\r\n                                    </td>\r\n
+        align=\"center\">34</div>\r\n                                    </td>\r\n
         \                                   </tr>\r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ Replicating Perfection\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">2675 / 3874 (40,85%)</div>\r\n                                    </td>\r\n
+        align=\"center\">3846 / 5799 (39,88%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">3,4</div>\r\n                                    </td>\r\n
+        align=\"center\">3,3</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">14,3</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">16</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">37</div>\r\n                                    </td>\r\n
+        align=\"center\">36</div>\r\n                                    </td>\r\n
         \                                   </tr>\r\n                            \r\n
         \                               \r\n                            \r\n                                <tr>\r\n
         \                                   <td align=\"left\">\r\n                                        <a
         href=\"#\" onclick=\"OnItemClick('Haas-Bioroid')\">\r\n                                            Haas-Bioroid</a>\r\n
         \                                   </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">13286 / 13116
-        (50,32%)</div>\r\n                                    </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">4,9</div>\r\n
+        \                                       <div align=\"center\">22010 / 23345
+        (48,53%)</div>\r\n                                    </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">4,8</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">13,2</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">13,4</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">15</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">35</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">34</div>\r\n
         \                                   </td>\r\n                                </tr>\r\n
         \                           \r\n                            \r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ Engineering the Future\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">12218 / 11103 (52,39%)</div>\r\n                                    </td>\r\n
+        align=\"center\">18031 / 16812 (51,75%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">5,0</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
@@ -194,43 +194,43 @@ http_interactions:
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">15</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">35</div>\r\n                                    </td>\r\n
+        align=\"center\">34</div>\r\n                                    </td>\r\n
         \                                   </tr>\r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ Stronger Together\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">628 / 1248 (33,48%)</div>\r\n
+        \                                       <div align=\"center\">966 / 1998 (32,59%)</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">3,6</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">3,5</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">12,2</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">16</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">38</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">36</div>\r\n
         \                                   </td>\r\n                                    </tr>\r\n
         \                           \r\n                            <tr>\r\n                            <td
         align=\"right\">\r\n                                        \r\n                                    -->
         \ Engineered for Success\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">85 / 130 (39,53%)</div>\r\n                                    </td>\r\n
+        align=\"center\">577 / 983 (36,99%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">3,4</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">21,7</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">15</div>\r\n                                    </td>\r\n
+        align=\"center\">16</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">30</div>\r\n                                    </td>\r\n
+        align=\"center\">33</div>\r\n                                    </td>\r\n
         \                                   </tr>\r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ Guarding the Net\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">321 / 541 (37,24%)</div>\r\n
+        \                                       <div align=\"center\">1553 / 2527
+        (38,06%)</div>\r\n                                    </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">4,4</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">4,5</div>\r\n
-        \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">10,6</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">10,7</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">14</div>\r\n
         \                                   </td>\r\n                                    <td
@@ -239,51 +239,51 @@ http_interactions:
         \                           \r\n                            <tr>\r\n                            <td
         align=\"right\">\r\n                                        \r\n                                    -->
         \ Infinite Frontiers\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">34 / 94 (26,56%)</div>\r\n
+        \                                       <div align=\"center\">883 / 1025 (46,28%)</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">3,2</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">4,4</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">14,9</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">14,8</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">14</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">15</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">28</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">29</div>\r\n
         \                                   </td>\r\n                                    </tr>\r\n
         \                           \r\n                                \r\n                            \r\n
         \                               <tr>\r\n                                    <td
         align=\"left\">\r\n                                        <a href=\"#\" onclick=\"OnItemClick('Weyland
         Consortium')\">\r\n                                            Weyland Consortium</a>\r\n
         \                                   </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">9855 / 9500
-        (50,92%)</div>\r\n                                    </td>\r\n                                    <td
+        \                                       <div align=\"center\">16700 / 15913
+        (51,21%)</div>\r\n                                    </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">3,5</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">13,4</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">13,7</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">14</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">33</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">32</div>\r\n
         \                                   </td>\r\n                                </tr>\r\n
         \                           \r\n                            \r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ Building a Better World\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">8532 / 7365 (53,67%)</div>\r\n                                    </td>\r\n
+        align=\"center\">14627 / 12356 (54,21%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">3,5</div>\r\n                                    </td>\r\n
+        align=\"center\">3,6</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">13,2</div>\r\n                                    </td>\r\n
+        align=\"center\">13,6</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">14</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">33</div>\r\n                                    </td>\r\n
+        align=\"center\">32</div>\r\n                                    </td>\r\n
         \                                   </tr>\r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ Because We Built It\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">1323 / 2135
-        (38,26%)</div>\r\n                                    </td>\r\n                                    <td
+        \                                       <div align=\"center\">2073 / 3557
+        (36,82%)</div>\r\n                                    </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">3,1</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">14,3</div>\r\n
@@ -297,40 +297,40 @@ http_interactions:
         align=\"left\">\r\n                                        <a href=\"#\" onclick=\"OnItemClick('NBN')\">\r\n
         \                                           NBN</a>\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">10885 / 11616 (48,38%)</div>\r\n                                    </td>\r\n
+        align=\"center\">19840 / 19475 (50,46%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">4,2</div>\r\n                                    </td>\r\n
+        align=\"center\">4,3</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">13,5</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">15</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">34</div>\r\n                                    </td>\r\n
+        align=\"center\">32</div>\r\n                                    </td>\r\n
         \                               </tr>\r\n                            \r\n
         \                           \r\n                            \r\n                            <tr>\r\n
         \                           <td align=\"right\">\r\n                                        \r\n
         \                                   -->  Making News\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">9432 / 10240 (47,95%)</div>\r\n                                    </td>\r\n
+        align=\"center\">15783 / 15860 (49,88%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">4,2</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">13,7</div>\r\n                                    </td>\r\n
+        align=\"center\">13,9</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">15</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">35</div>\r\n                                    </td>\r\n
+        align=\"center\">34</div>\r\n                                    </td>\r\n
         \                                   </tr>\r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ The World Is Yours\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">1453 / 1376
-        (51,36%)</div>\r\n                                    </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">4,3</div>\r\n
+        \                                       <div align=\"center\">4057 / 3615
+        (52,88%)</div>\r\n                                    </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">4,4</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">11,6</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">11,7</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">12</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">13</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">25</div>\r\n
         \                                   </td>\r\n                                    </tr>\r\n
@@ -357,121 +357,148 @@ http_interactions:
         \                                       <a href=\"#\" onclick=\"OnItemClick('Anarch')\">\r\n
         \                                           Anarch</a>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                         <div
-        align=\"center\">14016 / 13435 (51,06%)</div>\r\n                                    </td>\r\n
+        align=\"center\">21428 / 21373 (50,06%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">5,3</div>\r\n                                    </td>\r\n
+        align=\"center\">5,2</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">13,4</div>\r\n                                    </td>\r\n
+        align=\"center\">13,6</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">14</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">33</div>\r\n                                    </td>\r\n
+        align=\"center\">32</div>\r\n                                    </td>\r\n
         \                               </tr>\r\n                            \r\n
         \                           \r\n                            \r\n                            <tr>\r\n
         \                           <td align=\"right\">\r\n                                        \r\n
         \                                   -->  Noise\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">10693 / 9791 (52,20%)</div>\r\n                                    </td>\r\n
+        align=\"center\">15251 / 14663 (50,98%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">5,3</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">13,1</div>\r\n                                    </td>\r\n
+        align=\"center\">13,2</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">14</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">34</div>\r\n                                    </td>\r\n
+        align=\"center\">32</div>\r\n                                    </td>\r\n
         \                                   </tr>\r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ Whizzard\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">3323 / 3644
-        (47,70%)</div>\r\n                                    </td>\r\n                                    <td
+        \                                       <div align=\"center\">6144 / 6678
+        (47,92%)</div>\r\n                                    </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">5,0</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">14,4</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">14,5</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">16</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">15</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">32</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">31</div>\r\n
+        \                                   </td>\r\n                                    </tr>\r\n
+        \                           \r\n                            <tr>\r\n                            <td
+        align=\"right\">\r\n                                        \r\n                                    -->
+        \ Reina Roja\r\n                                    </td>\r\n                                    <td>\r\n
+        \                                       <div align=\"center\">33 / 32 (50,77%)</div>\r\n
+        \                                   </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">5,2</div>\r\n
+        \                                   </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">14,6</div>\r\n
+        \                                   </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">14</div>\r\n
+        \                                   </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">29</div>\r\n
         \                                   </td>\r\n                                    </tr>\r\n
         \                           \r\n                                \r\n                            \r\n
         \                               <tr>\r\n                                    <td>\r\n
         \                                       <a href=\"#\" onclick=\"OnItemClick('Shaper')\">\r\n
         \                                           Shaper</a>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                         <div
-        align=\"center\">13915 / 17166 (44,77%)</div>\r\n                                    </td>\r\n
+        align=\"center\">27398 / 31349 (46,64%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">5,0</div>\r\n                                    </td>\r\n
+        align=\"center\">5,1</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">13,1</div>\r\n                                    </td>\r\n
+        align=\"center\">12,6</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">15</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">36</div>\r\n                                    </td>\r\n
+        align=\"center\">34</div>\r\n                                    </td>\r\n
         \                               </tr>\r\n                            \r\n
         \                           \r\n                            \r\n                            <tr>\r\n
         \                           <td align=\"right\">\r\n                                        \r\n
         \                                   -->  Kate McCaffrey\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">7697 / 9784 (44,03%)</div>\r\n                                    </td>\r\n
+        align=\"center\">13916 / 15617 (47,12%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">4,9</div>\r\n                                    </td>\r\n
+        align=\"center\">5,0</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">12,5</div>\r\n                                    </td>\r\n
+        align=\"center\">13,0</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">15</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">38</div>\r\n                                    </td>\r\n
+        align=\"center\">36</div>\r\n                                    </td>\r\n
         \                                   </tr>\r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ Chaos Theory\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">5316 / 6504
-        (44,97%)</div>\r\n                                    </td>\r\n                                    <td
+        \                                       <div align=\"center\">7922 / 9543
+        (45,36%)</div>\r\n                                    </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">5,0</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">14,3</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">15</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">32</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">31</div>\r\n
         \                                   </td>\r\n                                    </tr>\r\n
         \                           \r\n                            <tr>\r\n                            <td
         align=\"right\">\r\n                                        \r\n                                    -->
-        \ Streethawk\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">260 / 249 (51,08%)</div>\r\n
-        \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">5,2</div>\r\n
+        \ Exile\r\n                                    </td>\r\n                                    <td>\r\n
+        \                                       <div align=\"center\">1119 / 1333
+        (45,64%)</div>\r\n                                    </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">5,0</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">14,5</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">15</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">35</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">33</div>\r\n
         \                                   </td>\r\n                                    </tr>\r\n
         \                           \r\n                            <tr>\r\n                            <td
         align=\"right\">\r\n                                        \r\n                                    -->
-        \ Transhuman\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">534 / 480 (52,66%)</div>\r\n
+        \ Rielle \"Kit\" Peddler\r\n                                    </td>\r\n
+        \                                   <td>\r\n                                        <div
+        align=\"center\">3490 / 3674 (48,72%)</div>\r\n                                    </td>\r\n
+        \                                   <td align=\"center\">\r\n                                        <div
+        align=\"center\">5,4</div>\r\n                                    </td>\r\n
+        \                                   <td align=\"center\">\r\n                                        <div
+        align=\"center\">9,5</div>\r\n                                    </td>\r\n
+        \                                   <td align=\"center\">\r\n                                        <div
+        align=\"center\">15</div>\r\n                                    </td>\r\n
+        \                                   <td align=\"center\">\r\n                                        <div
+        align=\"center\">31</div>\r\n                                    </td>\r\n
+        \                                   </tr>\r\n                            \r\n
+        \                           <tr>\r\n                            <td align=\"right\">\r\n
+        \                                       \r\n                                    -->
+        \ The Professor\r\n                                    </td>\r\n                                    <td>\r\n
+        \                                       <div align=\"center\">766 / 1072 (41,68%)</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">6,8</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">4,8</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">9,3</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">1,0</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">15</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">30</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">31</div>\r\n
         \                                   </td>\r\n                                    </tr>\r\n
         \                           \r\n                            <tr>\r\n                            <td
         align=\"right\">\r\n                                        \r\n                                    -->
-        \ Keeper of Knowledge\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">108 / 149 (42,02%)</div>\r\n
+        \ The Collective\r\n                                    </td>\r\n                                    <td>\r\n
+        \                                       <div align=\"center\">185 / 110 (62,71%)</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">5,0</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">5,5</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">0,9</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">4,9</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">15</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">14</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">31</div>\r\n
         \                                   </td>\r\n                                    </tr>\r\n
@@ -480,42 +507,55 @@ http_interactions:
         \                                       <a href=\"#\" onclick=\"OnItemClick('Criminal')\">\r\n
         \                                           Criminal</a>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                         <div
-        align=\"center\">17214 / 12925 (57,12%)</div>\r\n                                    </td>\r\n
+        align=\"center\">27560 / 20891 (56,88%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">5,6</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">13,6</div>\r\n                                    </td>\r\n
+        align=\"center\">13,8</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">15</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">35</div>\r\n                                    </td>\r\n
+        align=\"center\">34</div>\r\n                                    </td>\r\n
         \                               </tr>\r\n                            \r\n
         \                           \r\n                            \r\n                            <tr>\r\n
         \                           <td align=\"right\">\r\n                                        \r\n
         \                                   -->  Gabriel Santiago\r\n                                    </td>\r\n
         \                                   <td>\r\n                                        <div
-        align=\"center\">12183 / 9560 (56,03%)</div>\r\n                                    </td>\r\n
+        align=\"center\">16173 / 13115 (55,22%)</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">5,6</div>\r\n                                    </td>\r\n
+        align=\"center\">5,5</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">13,3</div>\r\n                                    </td>\r\n
+        align=\"center\">13,2</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
         align=\"center\">15</div>\r\n                                    </td>\r\n
         \                                   <td align=\"center\">\r\n                                        <div
-        align=\"center\">37</div>\r\n                                    </td>\r\n
+        align=\"center\">36</div>\r\n                                    </td>\r\n
         \                                   </tr>\r\n                            \r\n
         \                           <tr>\r\n                            <td align=\"right\">\r\n
         \                                       \r\n                                    -->
         \ Andromeda\r\n                                    </td>\r\n                                    <td>\r\n
-        \                                       <div align=\"center\">5031 / 3365
-        (59,92%)</div>\r\n                                    </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">5,8</div>\r\n
+        \                                       <div align=\"center\">11258 / 7619
+        (59,64%)</div>\r\n                                    </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">5,7</div>\r\n
         \                                   </td>\r\n                                    <td
-        align=\"center\">\r\n                                        <div align=\"center\">14,5</div>\r\n
+        align=\"center\">\r\n                                        <div align=\"center\">14,6</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">15</div>\r\n
         \                                   </td>\r\n                                    <td
         align=\"center\">\r\n                                        <div align=\"center\">31</div>\r\n
+        \                                   </td>\r\n                                    </tr>\r\n
+        \                           \r\n                            <tr>\r\n                            <td
+        align=\"right\">\r\n                                        \r\n                                    -->
+        \ Laramy Fisk\r\n                                    </td>\r\n                                    <td>\r\n
+        \                                       <div align=\"center\">129 / 157 (45,10%)</div>\r\n
+        \                                   </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">5,0</div>\r\n
+        \                                   </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">14,4</div>\r\n
+        \                                   </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">13</div>\r\n
+        \                                   </td>\r\n                                    <td
+        align=\"center\">\r\n                                        <div align=\"center\">26</div>\r\n
         \                                   </td>\r\n                                    </tr>\r\n
         \                           \r\n                                \r\n                            \r\n
         \                               </table>\r\n                    </td>\r\n
@@ -545,5 +585,5 @@ http_interactions:
         \       </div>\r\n    </div>\r\n    <div class=\"footer\">\r\n        \r\n
         \   </div>\r\n    </form>\r\n</body>\r\n</html>\r\n"
     http_version: 
-  recorded_at: Sat, 10 Aug 2013 03:55:51 GMT
+  recorded_at: Sat, 28 Dec 2013 18:11:46 GMT
 recorded_with: VCR 2.5.0
